@@ -1,0 +1,16 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /jokes
+Allow: /about
+Allow: /contact
+
+# Запрещаем доступ к админке
+Disallow: /admin/
+Disallow: /admin/*
+
+# Sitemap
+Sitemap: https://example.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1 

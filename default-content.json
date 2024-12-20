@@ -1,0 +1,29 @@
+{
+  "site": {
+    "name": "Your Site Name",
+    "description": "Your site description",
+    "footer": {
+      "about": "Your site is a platform for content sharing",
+      "copyright": "© 2024 Your Site. All rights reserved."
+    }
+  },
+  "sections": {
+    "main": {
+      "title": "Welcome to Your Site",
+      "description": "The best place for your content"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Your site is your reliable tool for content management"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "Contact us by email: info@your-domain.com"
+    }
+  },
+  "meta": {
+    "title": "Your Site - Your Content | Your Portal",
+    "description": "Your site - a huge collection of content in your language. Daily updates, fresh content.",
+    "keywords": "your,keywords,here"
+  }
+} 
